@@ -2,7 +2,8 @@
     "name": "hungergamesthingamigig",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-split-screen": "github:riknoll/arcade-split-screen#v0.0.3"
     },
     "files": [
         "main.blocks",
@@ -20,5 +21,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
